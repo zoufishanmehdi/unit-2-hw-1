@@ -3,4 +3,11 @@
 Welcome to the world of places.   
 
 ### Objective
-Using either the Foursquare API or the Yelp API, fetch a list of places new a specific location. Your application should allow the user to not only see the name of the place, but also additional details, such as hour of operation.
+Using either the Foursquare API or the Yelp API, fetch a list of places new a specific location. 
+
+When a user wants to see details, you application should take them to a new screen with other data provided by the API (category, location, avatar, etc)
+
+**The interesting part**
+On the detail page, your application must provide one additional piece of information provided by another api. For example, fetch the number of Twitter followers based on their twitter handle. Or pull instagram pictures based on the category of the venue. 
+
+I'll update this with some screens.
