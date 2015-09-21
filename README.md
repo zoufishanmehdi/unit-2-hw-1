@@ -14,12 +14,15 @@ I'll update this with some screens.
 
 ### Ideas
 > **Twitter**
-* Number of Followers/Follings
-* Latest tweets
-> **Wikipedia**
-* History of the place
-> **Instagram**
-* Posts tagged with company category
-* Posts tagged with company name
-> **Weather**
-* Current weather at that location
+* Number of Followers/Follings  
+* Latest tweets  
+
+> **Wikipedia**  
+* History of the place  
+
+> **Instagram**  
+* Posts tagged with company category  
+* Posts tagged with company name  
+
+> **Weather**  
+* Current weather at that location  
