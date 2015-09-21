@@ -11,3 +11,15 @@ When a user wants to see details, you application should take them to a new scre
 On the detail page, your application must provide one additional piece of information provided by another api. For example, fetch the number of Twitter followers based on their twitter handle. Or pull instagram pictures based on the category of the venue. 
 
 I'll update this with some screens.
+
+### Ideas
+> **Twitter**
+* Number of Followers/Follings
+* Latest tweets
+> **Wikipedia**
+* History of the place
+> **Instagram**
+* Posts tagged with company category
+* Posts tagged with company name
+> **Weather**
+* Current weather at that location
