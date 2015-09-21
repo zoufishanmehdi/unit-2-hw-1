@@ -3,9 +3,9 @@
 Welcome to the world of places.   
 
 ### Objective
-Using either the Foursquare API or the Yelp API, fetch a list of places new a specific location. 
+Using either the **[Foursquare API](https://developer.foursquare.com)** or the **[Yelp API](https://www.yelp.com/developers/documentation/v2/overview)**, fetch a list of places near a specific location. 
 
-When a user wants to see details, you application should take them to a new screen with other data provided by the API (category, location, avatar, etc)
+Your application should also provide the ability to view additional data (category, address, avatar, etc)
 
 **The interesting part**  
 On the detail page, your application must provide one additional piece of information provided by another api. For example, fetch the number of Twitter followers based on their twitter handle. Or pull instagram pictures based on the category of the venue. 
